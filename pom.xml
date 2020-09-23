@@ -17,6 +17,7 @@
         <swagger.version>2.9.2</swagger.version>
         <boot.swagger.version>1.9.1.RELEASE</boot.swagger.version>
         <boot.pagehelper.version>1.2.12</boot.pagehelper.version>
+        <boot.beetl.version>1.2.30.RELEASE</boot.beetl.version>
         <mysql.version>5.1.44</mysql.version>
         <lombok.version>1.18.12</lombok.version>
         <poi.version>3.17</poi.version>
@@ -191,6 +192,11 @@
                 <groupId>com.github.pagehelper</groupId>
                 <artifactId>pagehelper-spring-boot-starter</artifactId>
                 <version>${boot.pagehelper.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.ibeetl</groupId>
+                <artifactId>beetl-framework-starter</artifactId>
+                <version>${boot.beetl.version}</version>
             </dependency>
             <dependency>
                 <groupId>io.springfox</groupId>
