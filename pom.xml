@@ -19,7 +19,7 @@
         <boot.pagehelper.version>1.2.12</boot.pagehelper.version>
         <boot.beetl.version>3.0.2-RELEASE</boot.beetl.version>
         <mysql.version>5.1.44</mysql.version>
-        <lombok.version>1.18.12</lombok.version>
+        <lombok.version>1.18.16</lombok.version>
         <jackson.version>2.11.2</jackson.version>
         <springdoc.version>1.4.8</springdoc.version>
         <easyexcel.version>2.2.5</easyexcel.version>
