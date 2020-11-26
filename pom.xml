@@ -21,7 +21,7 @@
         <mysql.version>5.1.44</mysql.version>
         <lombok.version>1.18.16</lombok.version>
         <jackson.version>2.11.2</jackson.version>
-        <springdoc.version>1.4.8</springdoc.version>
+        <springdoc.version>1.5.0</springdoc.version>
         <easyexcel.version>2.2.5</easyexcel.version>
         <kaptcha.version>2.3.2</kaptcha.version>
     </properties>
